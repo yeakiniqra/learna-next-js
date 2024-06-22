@@ -15,9 +15,10 @@ pnpm dev
 bun dev
 ```
 
-## Learn More
-Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are.
+## Screen Shots
 
-## Deploy on Vercel
+![Screenshot_425](https://github.com/yeakiniqra/learna-next-js/assets/108855634/699f073d-f866-41f2-98b1-e076b85138f4)
+![Screenshot_426](https://github.com/yeakiniqra/learna-next-js/assets/108855634/29b7c0f5-cb97-43ff-b3a5-080e1a2f3c3e)
 
-Will be deploy & vercel Soon
+![Screenshot_427](https://github.com/yeakiniqra/learna-next-js/assets/108855634/366cc238-1d49-4c20-b549-075159a64299)
+
