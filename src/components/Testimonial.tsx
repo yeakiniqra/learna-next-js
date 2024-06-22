@@ -1,4 +1,5 @@
 'use client'
+
 import { InfiniteMovingCards } from "./ui/infinite-moving-cards";
 
 const courseTestimonials = [
