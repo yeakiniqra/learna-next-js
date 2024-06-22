@@ -1,0 +1,183 @@
+[
+    {
+      "id": 1,
+      "title": "JavaScript for Beginners",
+      "description": "Learn the basics of JavaScript, the most popular programming language in web development.",
+      "instructor": "John Doe",
+      "price": 49.99,
+      "rating": 4.5,
+      "imageUrl": "https://i.postimg.cc/k4Y0YTs3/next-JS-framework.png"
+    },
+    {
+      "id": 2,
+      "title": "Advanced CSS Techniques",
+      "description": "Master advanced CSS techniques for creating responsive and visually appealing web designs.",
+      "instructor": "Jane Smith",
+      "price": 59.99,
+      "rating": 4.7,
+      "imageUrl": "https://i.postimg.cc/dtjzzQ4j/1-JEHLm-Wo6-Srp-HPi-P4-Aim-Iw.png"
+    },
+    {
+      "id": 3,
+      "title": "React Development",
+      "description": "Build dynamic web applications using React.js, one of the most popular JavaScript libraries.",
+      "instructor": "Alice Johnson",
+      "price": 79.99,
+      "rating": 4.8,
+      "imageUrl": "https://i.postimg.cc/90VLpZ55/9d0a6780-394a-11eb-9fd1-6296a684b124.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Python for Data Science",
+      "description": "Learn Python programming and its application in data science and machine learning.",
+      "instructor": "Bob Brown",
+      "price": 89.99,
+      "rating": 4.6,
+      "imageUrl": "https://i.postimg.cc/y8NjrRJZ/Python-Symbol.png"
+    },
+    {
+      "id": 5,
+      "title": "Full-Stack Web Development",
+      "description": "Become a full-stack web developer by learning both front-end and back-end technologies.",
+      "instructor": "Charlie Davis",
+      "price": 129.99,
+      "rating": 4.9,
+      "imageUrl": "https://i.postimg.cc/mZQmcBft/full-stack-web-developer-1024x1024.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Node.js Essentials",
+      "description": "Get started with Node.js and learn how to build scalable network applications.",
+      "instructor": "Diana Evans",
+      "price": 69.99,
+      "rating": 4.4,
+      "imageUrl": "https://i.postimg.cc/Y0fRTff1/nodejs.png"
+    },
+    {
+      "id": 7,
+      "title": "Introduction to Angular",
+      "description": "Learn the fundamentals of Angular, a powerful front-end framework for building web applications.",
+      "instructor": "Ethan Foster",
+      "price": 74.99,
+      "rating": 4.5,
+      "imageUrl": "https://i.postimg.cc/NjNJgDhD/angularjs-framework.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Vue.js Crash Course",
+      "description": "Quickly learn Vue.js and build modern web applications with this popular JavaScript framework.",
+      "instructor": "Fiona Green",
+      "price": 64.99,
+      "rating": 4.7,
+      "imageUrl": "https://i.postimg.cc/k56c7dvM/vue.png"
+    },
+    {
+      "id": 9,
+      "title": "Django for Web Development",
+      "description": "Develop robust web applications using Django, a high-level Python web framework.",
+      "instructor": "George Harris",
+      "price": 94.99,
+      "rating": 4.8,
+      "imageUrl": "https://i.postimg.cc/RCyghd0V/django.png"
+    },
+    {
+      "id": 10,
+      "title": "Ruby on Rails Bootcamp",
+      "description": "Learn Ruby on Rails, a powerful web development framework, through this intensive bootcamp.",
+      "instructor": "Hannah Irwin",
+      "price": 109.99,
+      "rating": 4.6,
+      "imageUrl": "https://i.postimg.cc/jjph5kMH/what-is-data-science.jpg"
+    },
+    {
+      "id": 11,
+      "title": "SQL for Beginners",
+      "description": "Master the basics of SQL and learn how to manage databases effectively.",
+      "instructor": "Ian Jacobs",
+      "price": 39.99,
+      "rating": 4.4,
+      "imageUrl": "https://i.postimg.cc/vHhXzhmy/sql.webp"
+    },
+    {
+      "id": 12,
+      "title": "Machine Learning with Python",
+      "description": "Discover the power of machine learning and how to implement algorithms using Python.",
+      "instructor": "Jessica Kelly",
+      "price": 99.99,
+      "rating": 4.9,
+      "imageUrl": "https://i.postimg.cc/SNkDC3kV/mlops.jpg"
+    },
+    {
+      "id": 13,
+      "title": "HTML & CSS for Beginners",
+      "description": "Start your web development journey by learning the essentials of HTML and CSS.",
+      "instructor": "Kevin Lewis",
+      "price": 29.99,
+      "rating": 4.3,
+      "imageUrl": "https://i.postimg.cc/65ZYvZ7V/html.png"
+    },
+    {
+      "id": 14,
+      "title": "Kotlin for Android Development",
+      "description": "Learn Kotlin, the official language for Android development, and build your own mobile apps.",
+      "instructor": "Laura Martinez",
+      "price": 74.99,
+      "rating": 4.7,
+      "imageUrl": "https://i.postimg.cc/zBqh2jBj/exo.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Swift for iOS Development",
+      "description": "Get started with Swift programming and develop stunning iOS applications.",
+      "instructor": "Michael Nelson",
+      "price": 89.99,
+      "rating": 4.8,
+      "imageUrl": "https://i.postimg.cc/P5FyGqZF/swift-96x96-2x.png"
+    },
+    {
+      "id": 16,
+      "title": "Data Structures & Algorithms",
+      "description": "Master data structures and algorithms to improve your problem-solving skills.",
+      "instructor": "Nancy Owen",
+      "price": 79.99,
+      "rating": 4.6,
+      "imageUrl": "https://i.postimg.cc/DzHxGzwb/channels4_profile.jpg"
+    },
+    {
+      "id": 17,
+      "title": "DevOps Fundamentals",
+      "description": "Learn the basics of DevOps and how to streamline the software development process.",
+      "instructor": "Oliver Parker",
+      "price": 84.99,
+      "rating": 4.5,
+      "imageUrl": "https://i.postimg.cc/W3ZXwPdY/6-Best-Dev-Ops-Practices-to-Know-scaled.jpg"
+    },
+    {
+      "id": 18,
+      "title": "Blockchain Basics",
+      "description": "Understand the fundamentals of blockchain technology and its applications.",
+      "instructor": "Patricia Quinn",
+      "price": 69.99,
+      "rating": 4.3,
+      "imageUrl": "https://i.postimg.cc/zXF2Q509/bc.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Cybersecurity Essentials",
+      "description": "Learn the essentials of cybersecurity and how to protect systems from cyber threats.",
+      "instructor": "Richard Scott",
+      "price": 89.99,
+      "rating": 4.7,
+      "imageUrl": "https://i.postimg.cc/7LfBbzwk/cyber.jpg"
+    },
+    {
+      "id": 20,
+      "title": "AWS Certified Solutions Architect",
+      "description": "Prepare for the AWS Certified Solutions Architect exam with this comprehensive course.",
+      "instructor": "Sarah Thompson",
+      "price": 129.99,
+      "rating": 4.9,
+      "imageUrl": "https://i.postimg.cc/qvBDVYFg/aws.png"
+    }
+    ]
+  
